@@ -3,7 +3,7 @@ Sophmore year APCSP final project. Transferred to this account and readme create
 
 Description
 -------------------------------------
-This is basically a python-copy of the jklm.fun game "Word Bomb," a very underrated yet incredibly fun vocabulary game.
+This is basically a python-copy of the jklm.fun game "BombParty," a very underrated yet incredibly fun vocabulary game.
 - The primary objective of word bomb is to input a word that contains a specific prefix/suffix/letter into the text box before time is up.
 - Words have to be real english and cannot be used twice. 
 - If you run out of time or get lose all 3 hearts it’s game over and the bomb in the center of the game explodes! 
